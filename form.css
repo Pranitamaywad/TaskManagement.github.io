@@ -1,0 +1,19 @@
+.form-group{
+    margin-top: 3px;
+   padding: auto;
+}
+input{
+ text-align: start;       
+}
+.formTask {
+    width: 90%;
+   margin: auto;
+   font-size: medium;
+   text-align: start;
+}
+.btn {
+    margin-top: 6px;
+}
+label{
+ color: white;
+}

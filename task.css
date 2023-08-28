@@ -1,0 +1,29 @@
+.card{
+padding: 10px;
+margin-bottom: 5px;
+background-color: aliceblue;
+padding: 5px;
+width: 100%;
+}
+.card:hover{
+    padding: 3px;
+    background-color: white;    }
+span {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: smaller;
+
+}
+.btn {
+    margin-right: 5px;
+    font-size: smaller;
+    align-items: end;
+    justify-content: right;
+}
+
+p{
+    margin-top: 3px;
+    font-style: inherit;
+    font-weight: 400;
+}
